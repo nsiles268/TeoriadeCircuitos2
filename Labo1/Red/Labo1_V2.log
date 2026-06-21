@@ -1,0 +1,130 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\ASUS\Desktop\FACULTAD\4to_anio\TC_2\TeoriadeCircuitos2\Labo1\Red\Labo1_V2.net
+Start Time: Sun Jun 21 02:05:12 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 6.2771e-06
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195312
+vernier = 0.000976562
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 12.1212%
+Source Step = 12.139%
+Source Step = 12.1686%
+Source Step = 12.1982%
+Source Step = 12.2277%
+Source Step = 12.2573%
+vernier = 0.00146484
+Source Step = 12.2929%
+Source Step = 12.3372%
+Source Step = 12.3816%
+Source Step = 12.426%
+Source Step = 12.4704%
+vernier = 0.00219727
+Source Step = 12.5215%
+Source Step = 12.588%
+Source Step = 12.6546%
+Source Step = 12.7212%
+Source Step = 12.7878%
+vernier = 0.0032959
+Source Step = 12.861%
+Source Step = 12.9609%
+Source Step = 13.0608%
+Source Step = 13.1607%
+Source Step = 13.2605%
+vernier = 0.00494385
+Source Step = 13.3654%
+Source Step = 13.5152%
+Source Step = 13.665%
+Source Step = 13.8148%
+Source Step = 13.9647%
+Source Step = 14.1145%
+vernier = 0.00741577
+Source Step = 14.3392%
+Source Step = 14.5639%
+Source Step = 14.7886%
+Source Step = 15.0134%
+Source Step = 15.2381%
+vernier = 0.0111237
+Source Step = 15.5639%
+Source Step = 15.901%
+Source Step = 16.2381%
+Source Step = 16.5752%
+Source Step = 16.9122%
+vernier = 0.0166855
+Source Step = 17.3842%
+Source Step = 17.8898%
+Source Step = 18.3954%
+Source Step = 18.901%
+Source Step = 19.4066%
+vernier = 0.0250282
+Source Step = 20.0892%
+Source Step = 20.8477%
+Source Step = 21.6061%
+Source Step = 22.3645%
+Source Step = 23.1229%
+vernier = 0.0375423
+Source Step = 24.1089%
+Source Step = 25.2466%
+Source Step = 26.3842%
+Source Step = 27.5219%
+Source Step = 28.6595%
+vernier = 0.0563135
+Source Step = 30.0816%
+Source Step = 31.788%
+Source Step = 33.4945%
+Source Step = 35.201%
+Source Step = 36.9074%
+vernier = 0.0844703
+Source Step = 38.9552%
+Source Step = 41.5149%
+Source Step = 44.0746%
+Source Step = 46.6343%
+Source Step = 49.194%
+vernier = 0.126705
+Source Step = 52.1377%
+Source Step = 55.9772%
+Source Step = 59.8168%
+Source Step = 63.6564%
+Source Step = 67.4959%
+vernier = 0.190058
+Source Step = 71.7194%
+Source Step = 77.4788%
+Source Step = 83.2381%
+Source Step = 88.9974%
+Source Step = 94.7568%
+vernier = 0.285087
+Source Step = 100%
+Source stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.980 seconds.
+
+Files loaded:
+C:\Users\ASUS\Desktop\FACULTAD\4to_anio\TC_2\TeoriadeCircuitos2\Labo1\Red\Labo1_V2.net
+C:\Users\ASUS\AppData\Local\LTspice\lib\sub\opamp.sub
+C:\Users\ASUS\Desktop\FACULTAD\4to_anio\TC_2\TeoriadeCircuitos2\Labo1\Red\LM358.MOD
+
