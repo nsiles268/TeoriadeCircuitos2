@@ -1,6 +1,6 @@
 LTspice 24.1.5 for Windows
-Circuit: C:\Users\ASUS\Desktop\FACULTAD\4to_anio\TC_2\TeoriadeCircuitos2\Labo1\Red\Labo1_V2.net
-Start Time: Sun Jul 26 16:24:18 2026
+Circuit: C:\Users\ASUS\Desktop\FACULTAD\4to_anio\TC_2\TeoriadeCircuitos2\Labo1\Red\Labo1.net
+Start Time: Sun Jul 26 16:23:04 2026
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -121,10 +121,10 @@ vernier = 0.285087
 Source Step = 100%
 Source stepping succeeded in finding the operating point.
 
-Total elapsed time: 1.081 seconds.
+Total elapsed time: 1.208 seconds.
 
 Files loaded:
-C:\Users\ASUS\Desktop\FACULTAD\4to_anio\TC_2\TeoriadeCircuitos2\Labo1\Red\Labo1_V2.net
+C:\Users\ASUS\Desktop\FACULTAD\4to_anio\TC_2\TeoriadeCircuitos2\Labo1\Red\Labo1.net
 C:\Users\ASUS\AppData\Local\LTspice\lib\sub\opamp.sub
 C:\Users\ASUS\Desktop\FACULTAD\4to_anio\TC_2\TeoriadeCircuitos2\Labo1\Red\LM358.MOD
 
